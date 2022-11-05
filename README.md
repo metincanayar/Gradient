@@ -20,3 +20,5 @@
 ###### Soldan başlayınca çizgi yukarıya doğru yönelim gösteriyorsa bu *pozitif* bir gradienttir.   
 ![image](https://user-images.githubusercontent.com/57137972/200137381-2607be22-16d5-4c0c-87b2-de684fed61cb.png)
 ###### Düz yukarı ve aşağı (dikey) bir çizginin gradientti *tanımsızdır.*
+
+[Patika](https://patika.dev/)
